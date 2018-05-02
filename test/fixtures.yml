@@ -254,6 +254,9 @@ direc_pay:
 ebanx:
   integration_key: 1231000
 
+ebanx_checkout:
+  integration_key: X
+
 efsnet:
   login: X
   password: Y
